@@ -295,3 +295,8 @@ Temperature 0 makes the LLM deterministic and less likely to embellish beyond th
 ## License
 
 MIT — use freely, modify openly, attribute kindly.
+
+---
+## Contact
+
+For any questions or feedback, please contact [Siddharamyya M](mailto:msidrm455@gmail.com).
